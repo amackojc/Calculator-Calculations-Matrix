@@ -12,3 +12,6 @@ matrix.o: matrix.cpp matrix.h
 
 clean: 
 	rm *.o calculator
+
+run: 
+	./calculator

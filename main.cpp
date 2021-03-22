@@ -3,7 +3,7 @@
 #include <iostream>
 
 int main() {
-
+    system("clear");
     int count = 0;
     int count_matrix = 0;
     int mode;
